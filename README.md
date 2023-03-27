@@ -8,7 +8,7 @@ Building A website for my business got me interested into coding and now i am we
 
 * 🌍  I'm based in Mumbai,India
 * ✉️  You can contact me at [darsh9450@gmail.com](mailto:darsh9450@gmail.com)
-* 🧠  I'm learning Machine Learning And Django.
+* 🧠  I'm open to build projects related to AI-ML and Django
 * 🤝  I'm open to collaborating on Projects related to Web and Security.
 
 ### Skills
